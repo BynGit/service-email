@@ -10,7 +10,8 @@ Características:
 
 Uso:
 - Genera una clave de acceso de tu cuenta de gmail, y cambia el user y la pass en el archivo configEmails.js.
-![image](https://github.com/BrayanCardona12/service-email/assets/114372854/aa5e3285-2ee1-47c9-843e-242ae948db6d)
+<img width="408" height="184" alt="image" src="https://github.com/user-attachments/assets/f39aaa77-7743-451a-805e-2f34fde070e2" />
+
 
 - Después, haz la siguiente solicitud y comprueba si todo va bien:
 
